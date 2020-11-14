@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Tubs"
-author = "Daniel Zaragoza (Danielkvist)"
+title = "Falling Upward"
+author = "Not Tommy Tuberville"
 googleAnalytics = ""
 defaultContentLanguage = "en"
 paginate = 3
@@ -8,7 +8,7 @@ paginate = 3
 theme = "hugo-terrassa-theme"
 
 [params]
-    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
+    description = "In life, there are few born with a greater innate ability to fall upward than the newly elected, failed coach and hedge fun investor- Tommy Tuberville"
     favicon = "favicon.ico"
     logo = ""
 
