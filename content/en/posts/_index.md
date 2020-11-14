@@ -3,6 +3,6 @@ description: ""
 draft: false
 images: []
 menu: main
-title: Blog
+title: Coaching Highlights
 weight: 2
 ---
