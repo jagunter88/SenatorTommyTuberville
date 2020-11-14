@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Falling Upward"
+title = "Failing Upward"
 author = "Not Tommy Tuberville"
 googleAnalytics = ""
 defaultContentLanguage = "en"
@@ -8,7 +8,7 @@ paginate = 3
 theme = "hugo-terrassa-theme"
 
 [params]
-    description = "In life, there are few born with a greater innate ability to fall upward than the newly elected, failed coach and hedge fun investor- Tommy Tuberville"
+    description = "Terrassa is a simple, fast and responsive theme for Hugo with a strong focus on accessibility made from scratch."
     favicon = "favicon.ico"
     logo = ""
 
