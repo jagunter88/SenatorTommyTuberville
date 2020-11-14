@@ -1,8 +1,8 @@
 ---
 description: ""
 draft: false
-title: Simple
+title: Unqualified
 weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Loser
