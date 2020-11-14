@@ -1,8 +1,14 @@
 ---
 description: ""
 draft: false
-title: Simple Values
+title: Spineless 
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+You can expect Tommy Tuberville to approach the Senate with the same integrity void as he coached young football players. 
+
+During a recruiting dinner while coaching at Texas Tech, the characterless coach accepted a job offer to coach at Cincinnati mid-meal. Naturally, Coach TT decided it was in the best interest of the recruits and their families for him to not return and have to suffer through dinner in his presence.
+
+"The waitress brought our food out, and we thought (Tuberville) went to the bathroom, but he never came back to dinner," Danzey said. "Then next thing I know, the next day, he made an announcement that he's going to Cincinnati."
+
+While alarming, in context, his departure is true to form. In 1998, he left Ole Miss in a similar indecent way. One week after stating "They'll have to carry me out of here in a pine box"- Tuberville took himself and his pine box to Auburn. 
